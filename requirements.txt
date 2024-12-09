@@ -1,0 +1,7 @@
+streamlit==1.36.0
+python-dotenv==1.0.1
+llama-index-core
+llama-parse
+llama-index-readers-file
+python-dotenv
+nest-asyncio

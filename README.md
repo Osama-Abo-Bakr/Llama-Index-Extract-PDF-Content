@@ -15,7 +15,7 @@ A simple and efficient tool for extracting content from PDF files and displaying
 
 ## Demo
 
-![Demo Image Placeholder](https://via.placeholder.com/800x400?text=Add+Demo+Image+Here)
+![Demo Image](Demo-image.png)
 
 ## Installation
 

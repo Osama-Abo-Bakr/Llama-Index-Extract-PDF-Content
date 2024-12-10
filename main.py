@@ -13,7 +13,8 @@ nest_asyncio.apply()
 def get_markdown(upload_pdfs):
     parser = LlamaParse(
         result_type="markdown",
-        accurate_mode=True
+        accurate_mode=True,
+        extract_charts=True
     )
 
     file_extractor = {".pdf": parser}

@@ -42,7 +42,7 @@ A simple and efficient tool for extracting content from PDF files and displaying
 
 1. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 2. Open your browser and navigate to `http://localhost:8501`.

@@ -54,8 +54,7 @@ A simple and efficient tool for extracting content from PDF files and displaying
 ```
 Llama-Index-Extract-PDF-Content/
 │
-├── app.py                   # Main application file
-├── llama_parse.py           # PDF parsing logic (provided by Llama Index)
+├── main.py                   # Main application file
 ├── requirements.txt         # Python dependencies
 ├── .env                     # Environment variables file
 └── README.md                # Project documentation
